@@ -1,9 +1,10 @@
 MxxRu::arch_externals :restinio do |e|
-  e.url 'https://github.com/Stiffstream/restinio/archive/291b427cb4c60e773a738149e668c4e97a9fb71e.tar.gz'
+  e.url 'https://github.com/Stiffstream/restinio/archive/ac8ab0774b2a3746561e491a74830c3e4725b6f2.tar.gz'
 
   e.map_dir 'dev/restinio' => 'dev'
   e.map_dir 'dev/sample' => 'dev'
   e.map_dir 'dev/test' => 'dev'
+  e.map_dir 'dev/benches' => 'dev'
 
   e.map_file 'dev/build.rb' => 'dev/*'
 end

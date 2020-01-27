@@ -20,6 +20,10 @@
 /vcpkg
 /dev/doc/*
 /dev/zlib
+/dev/benches
+/dev/restinio
+/dev/sample
+/dev/test
 o/*
 ./wiki
 *.sublime-project
