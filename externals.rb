@@ -1,5 +1,5 @@
 MxxRu::arch_externals :restinio do |e|
-  e.url 'https://github.com/Stiffstream/restinio/archive/ac8ab0774b2a3746561e491a74830c3e4725b6f2.tar.gz'
+  e.url 'https://github.com/Stiffstream/restinio/archive/2b1705fe1f7b75424b20fa5ef8c1dab174dcd4c7.tar.gz'
 
   e.map_dir 'dev/restinio' => 'dev'
   e.map_dir 'dev/sample' => 'dev'
